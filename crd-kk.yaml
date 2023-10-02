@@ -8,7 +8,7 @@ metadata:
 spec:
   group: kk.io
   names:
-    kind: bokertov
+    kind: BokerTov
     plural: bokertovs
     singular: bokertov
     shortNames:
