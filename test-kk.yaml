@@ -1,0 +1,8 @@
+apiVersion: kk.io/v1alpha1
+kind: BokerTov
+metadata:
+  name: kk-greeting
+spec:
+  emailToGreet: kamlesh356@gmail.com
+  messageToGreet: Bokertov
+  replicas: 1
