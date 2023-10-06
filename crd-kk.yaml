@@ -12,7 +12,7 @@ spec:
     plural: bokertovs
     singular: bokertov
     shortNames:
-      - grt
+      - gm
   scope: Namespaced
   versions:
     - name: v1alpha1
